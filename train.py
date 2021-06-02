@@ -6,7 +6,7 @@ import warnings
 warnings.filterwarnings('ignore')
 #get_ipython().magic(u'matplotlib inline')
 #plt.style.use('ggplot')
-
+#whoopwhoop!
 import tensorflow as tf
 
 from keras import models, regularizers, layers, optimizers, losses, metrics
